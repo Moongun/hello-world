@@ -1,8 +1,9 @@
 # hello-world
 first repository
 
-HI!!!
 
-I'm Mikee. Just learning, keep passing. 
+I'm Mikee. Just learning, keep passing.
+
+Bla bla bla keep practising...
 
 Cya
